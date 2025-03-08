@@ -16,3 +16,4 @@ Este projeto é o meu primeiro site, desenvolvido para uma pizzaria. O site poss
 - CSS
 
 ## Como Executar o Projeto
+https://mylenapof.github.io/Site-Pizzaria/
