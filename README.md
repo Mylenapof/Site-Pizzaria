@@ -2,9 +2,9 @@
 
 ## Descrição
 
-Este projeto é o meu primeiro site, desenvolvido para uma pizzaria. O site possui cinco seções principais: **Inicio**, **Cardápio**, **Sobre**, **Contato** e **Pedidos**,. O objetivo é fornecer uma navegação simples e informativa aos usuários.
-Mas nem todas funcionalidades funcionam, o site é todo feito com html e css.
-Abaixo na estrutura do site tem as funcionalidades que estão funcionando.
+Este projeto é o meu primeiro site, desenvolvido para uma pizzaria. O site possui cinco seções principais: **Inicio**, **Cardápio**, **Sobre**, **Contato** e **Pedidos**.<br> O objetivo é fornecer uma navegação simples e informativa aos usuários.<br>
+Mas nem todas funcionalidades funcionam, o site é todo feito com html e css.<br>
+Abaixo na estrutura do site tem as funcionalidades que estão funcionando.<br>
 
 ## Estrutura do Site
 1. **Inicio**:Apresenta as informções inicais sobre o site 
@@ -18,5 +18,5 @@ Abaixo na estrutura do site tem as funcionalidades que estão funcionando.
 - CSS
 
 ## Como Executar o Projeto
-Clique no link abaixo e navegue em meu primeiro site com html e css. 
+Clique no link abaixo e navegue em meu primeiro site com html e css. <br>
 https://mylenapof.github.io/Site-Pizzaria/
