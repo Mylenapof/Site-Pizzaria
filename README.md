@@ -1,4 +1,4 @@
-# Site da Pizzaria
+# Site Pizzaria
 
 ## Descrição
 
