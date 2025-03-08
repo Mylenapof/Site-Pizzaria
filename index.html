@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pizza & Co.</title>
+    <link rel="stylesheet" href="./CSS/Practice01.css" />
+    <link rel="icon" href="./CSS/pizza.png" type="image/png" />
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <h1>Pizza & Co.</h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="Cardapio.html">Cardapio</a></li>
+          <li><a href="Sobre.html">Sobre</a></li>
+          <li><a href="#contato">Contato</a></li>
+          <li><a href="#pedidos">Pedidos</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section class="banner" id="Inicio">
+      <div class="banner-content">
+        <h2>As melhores Pizzas da Cidade!</h2>
+        <p>Ingredientes frescos e sabor incomparavel.Peça já a sua</p>
+        <a href="#cardapio" class="btn">Ver Cardapio</a>
+      </div>
+    </section>
+    <section class="Cardapio" id="Cardapio">
+        <h2>Promoções</h2>
+        <div class="container"> 
+            <div class="pizza">
+                <img src="./CSS/pizza.margerita.jpg" alt="Pizza Margherita">
+                <h3>Pizza Margherita</h3>
+                <p>molho de tomate, mussarela, manjericão fresco</p> 
+                <span>R$ 39,90</span>
+            </div>
+            <div class="pizza">
+                <img src="./CSS/pizza.calabresa.jpg" alt="Pizza Calabresa">
+                <h3>Pizza Portuguesa</h3>
+                <p>molho de tomate, mussarela, calabresa fatiada, cebola</p> 
+                <span>R$ 42,90</span>
+            </div>
+            <div class="pizza">
+                <img src="./CSS/pizza.portuguesa.jpg" alt="Pizza Portuguesa">
+                <h3>Pizza Portuguesa</h3>
+                <p>molho de tomate, mussarela, presunto, ovo, cebola, azeitona </p> 
+                <span>R$ 45,90</span>
+            </div>
+        </div>
+    </section>
+    <section class="contato" id="contato">
+        <h2>Fale Conosco</h2>
+        <p>Tem alguma dúvida ou quer fazer um pedido? Entre em contato!</p>
+        
+        <div class="container-contato">
+            <form action="#" method="POST">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+    
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+    
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+    
+                <button type="submit">Enviar</button>
+            </form>
+    
+            <div class="info-contato">
+                <h3>Endereço</h3>
+                <p>Rua das Pizzas, 123 - Centro, Goiânia - GO</p>
+    
+                <h3>Telefone</h3>
+                <p>(62) 99999-9999</p>
+    
+                <h3>WhatsApp</h3>
+                <a href="https://wa.me/5562999999999" target="_blank">Clique aqui para chamar no WhatsApp</a>
+            </div>
+        </div>
+    </section>
+  </body>
+</html>
